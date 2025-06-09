@@ -1,5 +1,7 @@
 #!/bin/bash
-#server-stats.sh - Script to analyze server performances stats
+# Project: server-stats.sh - Script to analyze server performances stats
+# File Created: 2025-08-06
+# Author: xR0n1n
 
 echo "==========================="
 echo "📊 Server Performance Stats"
